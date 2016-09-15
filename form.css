@@ -1,0 +1,36 @@
+
+input#contact{
+
+
+background-image:url(../images/mobile.png);
+background-repeat:no-repeat;
+background-position:6px;
+border:1px solid #DADADA;
+width:310px;
+height:30px;
+font-size:14px;
+padding-left: 30px;
+box-shadow:0 0 10px;
+-webkit-box-shadow:0 0 10px;
+/* For I.E */
+-moz-box-shadow:0 0 10px;
+/* For Mozilla Web Browser */
+border-radius:5px;
+-webkit-border-radius:5px;
+/* For I.E */
+-moz-border-radius:5px
+/* For Mozilla Web Browser */
+}
+
+input#submit {
+background-color:#cc7a66;
+border-radius:5px;
+border:none;
+padding:10px 25px;
+color:#FFF;
+text-shadow:1px 1px 1px #949494;
+margin-left:35px
+}
+input#submit:hover{
+background-color:#FF9980
+}
